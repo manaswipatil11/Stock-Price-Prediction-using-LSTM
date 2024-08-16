@@ -12,4 +12,5 @@ This project was not just about completing a task; it was about continuous learn
 
 Join me on this journey of exploration and learning by exploring the code and documentation in this repository. Let's keep pushing the boundaries of what we can achieve in the world of data science! 🌟
 
-#DataScience #StockMarket #LSTM #MachineLearning #GitHub"
+"
+![download](https://github.com/user-attachments/assets/b0b07917-1d81-4264-acf0-81504a3730a6)
