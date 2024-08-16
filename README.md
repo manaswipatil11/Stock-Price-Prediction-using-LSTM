@@ -1,5 +1,5 @@
 # Stock-Price-Prediction-using-LSTM
-🚀 Just completed Task-2 at Bharat Intern: Stock Price Prediction using LSTM 📈🔮
+🚀 Just completed Task-2 at Bharat Intern: Stock Price Prediction using LSTM 📈
 
 In this project, I ventured into the exciting world of time series analysis and deep learning to build a robust Stock Price Prediction model using Long Short-Term Memory (LSTM) networks. Along this journey, I gained invaluable insights and knowledge:
 
